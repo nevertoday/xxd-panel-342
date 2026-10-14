@@ -10,6 +10,53 @@ Above, one punch die chosen by the image opens it again and again. Below, the pu
 
 > Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 Left–Right Samples
+
+Twenty Unsplash portrait photographs on twenty themes different from the top–bottom set, each rebuilt as one complete 16:9 left–right canvas. On the left is the image after real die-cut punching; on the right, a solid field drawn from it where the removed fragments regroup, exact 50:50. Each image still chooses its own die, and, following the source brief, no text appears. The portrait themes stay rich in colour and texture, to show which dies even more images pick.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 342 sample 21 · Sunflower"><br><sub>21 · Sunflower</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 342 sample 22 · Monstera leaves"><br><sub>22 · Monstera leaves</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 342 sample 23 · Umbrella canopy"><br><sub>23 · Umbrella canopy</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 342 sample 24 · Strawberries"><br><sub>24 · Strawberries</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 342 sample 25 · Jellyfish"><br><sub>25 · Jellyfish</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 342 sample 26 · Clouds"><br><sub>26 · Clouds</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 342 sample 27 · Red maple"><br><sub>27 · Red maple</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 342 sample 28 · Lollipops"><br><sub>28 · Lollipops</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 342 sample 29 · Candle flame"><br><sub>29 · Candle flame</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 342 sample 30 · Red lanterns"><br><sub>30 · Red lanterns</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 342 sample 31 · Scarlet macaw"><br><sub>31 · Scarlet macaw</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 342 sample 32 · Bamboo forest"><br><sub>32 · Bamboo forest</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 342 sample 33 · Rainbow stairs"><br><sub>33 · Rainbow stairs</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 342 sample 34 · Pomegranate seeds"><br><sub>34 · Pomegranate seeds</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 342 sample 35 · Seashell"><br><sub>35 · Seashell</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 342 sample 36 · Frost on glass"><br><sub>36 · Frost on glass</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 342 sample 37 · Honeycomb"><br><sub>37 · Honeycomb</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 342 sample 38 · Wisteria"><br><sub>38 · Wisteria</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 342 sample 39 · Gumdrops"><br><sub>39 · Gumdrops</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 342 sample 40 · School of fish"><br><sub>40 · School of fish</sub></td>
+  </tr>
+</table>
+
 ## 3:4 Top–Bottom Samples
 
 Twenty Unsplash landscape photographs with very different colour and texture, each rebuilt as one complete 3:4 top–bottom canvas. Above is the image after real die-cut punching; below is a solid field drawn from the image where the removed fragments regroup, exact 50:50. Each image chooses its own die, and only one per work. Following the source brief, no text appears. Themes range across flower fields, forest, night sky, sea, markets, patterns and macro, to show which die each image picks and how its fragments recompose.

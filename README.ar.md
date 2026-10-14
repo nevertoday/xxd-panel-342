@@ -10,6 +10,53 @@
 
 > مدخل النص الأصلي (باللغات الخمس): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## نماذج 16:9 يسار–يمين
+
+عشرون صورة عمودية من Unsplash بعشرين موضوعًا مختلفًا عن مجموعة الأعلى–الأسفل، وكل منها لوحة 16:9 يسار–يمين مكتملة. في اليسار الصورة بعد ثقبها فعليًا بقالب قصّ، وفي اليمين حقل لوني مصمت مستخرج منها تتجمع فيه القطع المنزوعة من جديد، مناصفة دقيقة 50:50. ما زالت كل صورة تختار قالبها بنفسها، ولا يظهر أي نص التزامًا بالنص الأصلي. بقيت المواضيع العمودية غنية باللون والملمس، لنُظهر أي قوالب تختارها صور أكثر.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 342 sample 21 · دوار الشمس"><br><sub>21 · دوار الشمس</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 342 sample 22 · أوراق المونستيرا"><br><sub>22 · أوراق المونستيرا</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 342 sample 23 · سقف المظلات"><br><sub>23 · سقف المظلات</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 342 sample 24 · فراولة"><br><sub>24 · فراولة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 342 sample 25 · قناديل البحر"><br><sub>25 · قناديل البحر</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 342 sample 26 · غيوم بيضاء"><br><sub>26 · غيوم بيضاء</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 342 sample 27 · قيقب أحمر"><br><sub>27 · قيقب أحمر</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 342 sample 28 · حلوى ملونة"><br><sub>28 · حلوى ملونة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 342 sample 29 · لهب شمعة"><br><sub>29 · لهب شمعة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 342 sample 30 · فوانيس حمراء"><br><sub>30 · فوانيس حمراء</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 342 sample 31 · ببغاء المكاو"><br><sub>31 · ببغاء المكاو</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 342 sample 32 · غابة الخيزران"><br><sub>32 · غابة الخيزران</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 342 sample 33 · درج قوس قزح"><br><sub>33 · درج قوس قزح</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 342 sample 34 · بذور الرمان"><br><sub>34 · بذور الرمان</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 342 sample 35 · صدفة"><br><sub>35 · صدفة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 342 sample 36 · صقيع على الزجاج"><br><sub>36 · صقيع على الزجاج</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 342 sample 37 · قرص العسل"><br><sub>37 · قرص العسل</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 342 sample 38 · الوستارية"><br><sub>38 · الوستارية</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 342 sample 39 · حلوى الجيلي"><br><sub>39 · حلوى الجيلي</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 342 sample 40 · سرب أسماك"><br><sub>40 · سرب أسماك</sub></td>
+  </tr>
+</table>
+
 ## نماذج 3:4 أعلى–أسفل
 
 عشرون صورة أفقية من Unsplash بألوان وملامس مختلفة جدًا، كل منها لوحة 3:4 أعلى–أسفل مكتملة. في الأعلى الصورة بعد تثقيب حقيقي بالقالب، وفي الأسفل حقل لوني مستخلص منها تتجمع فيه القطع المنتزعة من جديد، مناصفة دقيقة 50:50. تختار كل صورة قالبها بنفسها، وقالبًا واحدًا فقط لكل عمل. ووفق الموجّه الأصلي لا يظهر أي نص. تمتد الموضوعات من حقول الزهور والغابات والسماء الليلية والبحر إلى الأسواق والزخارف والتصوير المقرّب، لتُظهر أي قالب تختاره كل صورة وكيف تُعاد صياغة قطعها.

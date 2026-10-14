@@ -10,6 +10,53 @@
 
 > 原始プロンプト（5言語の入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右の作例
+
+上下の組とは別の20テーマの Unsplash 縦写真。それぞれ 16:9 の左右完成キャンバス。左は実際に型抜きされた原画、右は原画から取り出した単色の場と、抜き取られた断片の再構成。厳密に 50:50。型の形は引き続き各画像が自ら決め、原文どおり文字は一切入れない。縦写真のテーマも色と質感の強いものを選び、さらに多くの画像がどんな型を「選ぶ」かを見せる。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 342 sample 21 · ひまわり"><br><sub>21 · ひまわり</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 342 sample 22 · モンステラ"><br><sub>22 · モンステラ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 342 sample 23 · 傘の天井"><br><sub>23 · 傘の天井</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 342 sample 24 · イチゴ"><br><sub>24 · イチゴ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 342 sample 25 · クラゲ"><br><sub>25 · クラゲ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 342 sample 26 · 青空と雲"><br><sub>26 · 青空と雲</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 342 sample 27 · 紅葉"><br><sub>27 · 紅葉</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 342 sample 28 · キャンディ"><br><sub>28 · キャンディ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 342 sample 29 · ろうそくの炎"><br><sub>29 · ろうそくの炎</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 342 sample 30 · 赤い提灯"><br><sub>30 · 赤い提灯</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 342 sample 31 · コンゴウインコ"><br><sub>31 · コンゴウインコ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 342 sample 32 · 竹林"><br><sub>32 · 竹林</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 342 sample 33 · 虹色の階段"><br><sub>33 · 虹色の階段</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 342 sample 34 · ザクロ"><br><sub>34 · ザクロ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 342 sample 35 · 貝殻"><br><sub>35 · 貝殻</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 342 sample 36 · 窓の霜"><br><sub>36 · 窓の霜</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 342 sample 37 · ハチの巣"><br><sub>37 · ハチの巣</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 342 sample 38 · 藤"><br><sub>38 · 藤</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 342 sample 39 · グミキャンディ"><br><sub>39 · グミキャンディ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 342 sample 40 · 魚の群れ"><br><sub>40 · 魚の群れ</sub></td>
+  </tr>
+</table>
+
 ## 3:4 上下の作例
 
 色と質感の異なる Unsplash の横長写真20点を、それぞれ 3:4 上下の完成キャンバスにした。上は実際に打ち抜かれた原図、下は原図から取り出した単色の場で、抜かれた断片が組み直される。厳密に 50:50。型は各原図が自ら決め、一作品につき一種類だけ。原文どおり文字は入れない。花畑、森、星空、海、市場、文様、マクロまで、画像ごとにどんな型が選ばれ、断片がどう再構成されるかを示す。

@@ -10,6 +10,53 @@
 
 > 원본 프롬프트(5개 언어 입구): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 좌우 구성 예시
+
+상하 세트와 다른 스무 가지 주제의 Unsplash 세로 사진 스무 장. 각각 16:9 좌우 완성 캔버스. 왼쪽은 실제로 타공된 원본, 오른쪽은 원본에서 뽑아낸 단색 면 위에 빼낸 조각을 다시 모은 것, 정확히 50:50. 타공 모양은 여전히 각 이미지가 스스로 정하며, 원문대로 글자는 넣지 않는다. 세로 주제도 색과 질감이 강한 것으로 골라 더 많은 이미지가 어떤 틀을 “고르는지” 보여 준다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 342 sample 21 · 해바라기"><br><sub>21 · 해바라기</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 342 sample 22 · 몬스테라 잎"><br><sub>22 · 몬스테라 잎</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 342 sample 23 · 우산 천장"><br><sub>23 · 우산 천장</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 342 sample 24 · 딸기"><br><sub>24 · 딸기</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 342 sample 25 · 해파리"><br><sub>25 · 해파리</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 342 sample 26 · 파란 하늘과 구름"><br><sub>26 · 파란 하늘과 구름</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 342 sample 27 · 붉은 단풍"><br><sub>27 · 붉은 단풍</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 342 sample 28 · 사탕"><br><sub>28 · 사탕</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 342 sample 29 · 촛불"><br><sub>29 · 촛불</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 342 sample 30 · 붉은 등롱"><br><sub>30 · 붉은 등롱</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 342 sample 31 · 금강앵무"><br><sub>31 · 금강앵무</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 342 sample 32 · 대나무 숲"><br><sub>32 · 대나무 숲</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 342 sample 33 · 무지개 계단"><br><sub>33 · 무지개 계단</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 342 sample 34 · 석류"><br><sub>34 · 석류</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 342 sample 35 · 조개껍데기"><br><sub>35 · 조개껍데기</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 342 sample 36 · 유리창 성에"><br><sub>36 · 유리창 성에</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 342 sample 37 · 벌집"><br><sub>37 · 벌집</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 342 sample 38 · 등나무꽃"><br><sub>38 · 등나무꽃</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 342 sample 39 · 젤리 사탕"><br><sub>39 · 젤리 사탕</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 342 sample 40 · 물고기 떼"><br><sub>40 · 물고기 떼</sub></td>
+  </tr>
+</table>
+
 ## 3:4 상하 구성 예시
 
 색과 질감이 서로 다른 Unsplash 가로 사진 스무 장을 각각 완성된 3:4 상하 캔버스로 만들었다. 위는 실제로 펀칭된 원본, 아래는 원본에서 뽑은 단색 면 위에서 빠져나온 조각들이 다시 짜인다. 정확히 50:50. 펀치 모양은 원본마다 스스로 정하며 한 작품에 한 가지뿐이다. 원문대로 글자는 넣지 않는다. 꽃밭, 숲, 밤하늘, 바다, 시장, 문양, 접사까지, 이미지마다 어떤 틀을 고르고 조각을 어떻게 재구성하는지 보여 준다.

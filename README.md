@@ -10,6 +10,53 @@
 
 > 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右双联样张
+
+以下二十张使用与上下组完全不同的二十个主题的 Unsplash 竖幅照片，各自生成一张完整的 16:9 左右双联画布：左侧是经过真实打孔的原图，右侧是由原图提炼的纯色场与被取走碎片的重组，严格 50:50。模具形状仍由每张原图自己决定；按原始提示词，画面不加任何文字。竖幅主题继续以强烈的色彩与纹理为主，用来展示更多图像会“选出”怎样的模具。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 342 sample 21 · 向日葵"><br><sub>21 · 向日葵</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 342 sample 22 · 龟背竹叶"><br><sub>22 · 龟背竹叶</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 342 sample 23 · 伞阵天棚"><br><sub>23 · 伞阵天棚</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 342 sample 24 · 草莓"><br><sub>24 · 草莓</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 342 sample 25 · 水母"><br><sub>25 · 水母</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 342 sample 26 · 蓝天白云"><br><sub>26 · 蓝天白云</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 342 sample 27 · 红枫"><br><sub>27 · 红枫</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 342 sample 28 · 彩色糖果"><br><sub>28 · 彩色糖果</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 342 sample 29 · 烛光"><br><sub>29 · 烛光</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 342 sample 30 · 红灯笼"><br><sub>30 · 红灯笼</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 342 sample 31 · 金刚鹦鹉"><br><sub>31 · 金刚鹦鹉</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 342 sample 32 · 竹林"><br><sub>32 · 竹林</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 342 sample 33 · 彩虹阶梯"><br><sub>33 · 彩虹阶梯</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 342 sample 34 · 石榴"><br><sub>34 · 石榴</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 342 sample 35 · 贝壳"><br><sub>35 · 贝壳</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 342 sample 36 · 窗上冰霜"><br><sub>36 · 窗上冰霜</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 342 sample 37 · 蜂巢"><br><sub>37 · 蜂巢</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 342 sample 38 · 紫藤"><br><sub>38 · 紫藤</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 342 sample 39 · 彩色软糖"><br><sub>39 · 彩色软糖</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 342 sample 40 · 热带鱼群"><br><sub>40 · 热带鱼群</sub></td>
+  </tr>
+</table>
+
 ## 3:4 上下双联样张
 
 以下二十张来自二十个色彩与纹理各异的 Unsplash 横幅照片，各自生成一张完整的 3:4 上下双联画布：上部是经过真实打孔的原图，下部是由原图提炼的纯色场与被取走碎片的重组，严格 50:50。模具形状由每张原图自己决定，同一张只用一种；按原始提示词，画面不加任何文字。主题覆盖花田、森林、星空、海洋、街市、纹样与微距，用来展示不同图像会“选出”怎样的模具与重组方式。
