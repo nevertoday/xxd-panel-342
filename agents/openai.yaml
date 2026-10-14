@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 342"
+  short_description: "打孔余韵：上半用同一枚模具为原图打孔，下半让被取走的碎片在纯色留白中重新聚合"
+  default_prompt: "Use $xxd-panel-342 to transform my photograph following the complete canonical source brief."
