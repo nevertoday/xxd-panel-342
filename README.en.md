@@ -124,7 +124,7 @@ The key is to find one fitting die for the whole image, then place it with judge
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-342 --skill xxd-panel-342
+npx skills add https://github.com/nevertoday/xxd-panel-342 --skill xxd-panel-342
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-342`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
