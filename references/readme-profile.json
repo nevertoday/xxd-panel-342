@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 342｜Punched Echo: chooses one punch die that suits the whole image (a star, petal, leaf, drop, cloud, puzzle piece, crescent, keyhole and so on) and stamps it again and again across the photo at freely judged, irregular spots, always the same outline and size, never cutting objects out along their edges; the holes show a solid colour drawn from the photo, and every punched-out piece reappears with its real texture on that quiet colour field, regathered into loose clusters, constellations or specimen-like rows that hint at a second reading. The photo itself is visibly punched, and no text is added. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-342 or asks for die-cut hole punching, repeated shape masking or fragment recomposition from an image.",
+  "short_description": "打孔余韵：用一枚模具在照片上反复打孔，再把取下的碎片在纯色留白里重新聚合",
+  "zh-CN": {
+    "name": "打孔余韵",
+    "tagline": "用同一枚模具给照片打孔，再让取下的碎片在纯色留白里重新聚合。",
+    "look": "先按照片的气质选定一枚打孔模具，比如星形、花瓣、叶子、水滴、云朵、拼图或钥匙孔，在原图上不规则地打出一个个干净的孔，形状和大小完全一样，只会转动方向，不会沿物体边缘抠图。孔里露出从照片色彩里取来的一种纯色。另一半是同样纯色的大片留白，取下来的每一枚碎片都带着原位的真实纹理和颜色出现在这里，聚成松散的星群、标本或线索般的新排列。整张不加任何文字。",
+    "traits": [
+      "单一模切模具",
+      "重复负形",
+      "随机落点",
+      "纯色留白",
+      "碎片语义重组",
+      "无文字"
+    ],
+    "good": [
+      "色彩丰富、纹理密集的照片：花田、海面、秋天的树林、夜景灯光",
+      "细节很多、局部也好看的画面：街市摊位、织物纹样、微距、水果堆",
+      "想做成艺术杂志内页、展览海报或拼贴感作品的图片"
+    ],
+    "poor": [
+      "大面积纯色或细节很少的照片：白墙前的人、雾天、极简产品图，打下来的碎片几乎一样",
+      "必须保持完整、不能被打孔的照片，比如证件照或重要人物的脸",
+      "想要说明文字、标题，或想把物体沿轮廓完整抠出来、做纸雕浮雕的需求"
+    ]
+  },
+  "en": {
+    "name": "Punched Echo",
+    "tagline": "Punches your photo with one repeated die shape, then regathers the punched-out pieces on a calm colour field.",
+    "look": "A punch die is chosen to suit the photo, such as a star, petal, leaf, drop, cloud, puzzle piece or keyhole, and clean holes are punched across the image at irregular spots, all the same shape and size, only rotated, never cut around an object's edge. The holes show one solid colour taken from the photo. The other half is a wide field of that same colour, where every punched-out piece reappears with the real texture and colour from its spot, gathered into loose constellations, specimen rows or clue-like new arrangements. No text is added anywhere.",
+    "traits": [
+      "Single die shape",
+      "Repeated negative shapes",
+      "Random placement",
+      "Solid colour field",
+      "Fragment recomposition",
+      "No text"
+    ],
+    "good": [
+      "Colourful, densely textured photos: a flower field, the sea, autumn woods, city lights at night",
+      "Images full of detail where small crops look good too: market stalls, fabric patterns, macro shots, a pile of fruit",
+      "Images you want as an art-magazine spread, exhibition poster or collage-like piece"
+    ],
+    "poor": [
+      "Photos with large flat areas or little detail: a person against a white wall, fog, minimal product shots, where the pieces all look alike",
+      "Photos that must stay whole and unpunched, such as ID photos or an important person's face",
+      "Requests for captions or titles, for cutting objects out along their outlines, or for a paper-sculpture relief look"
+    ]
+  },
+  "ja": {
+    "name": "パンチの余韻",
+    "tagline": "一つの型で写真に穴を開け、抜き取った欠片を無地の余白に集め直します。",
+    "look": "写真の気配に合わせて、星、花びら、葉、しずく、雲、パズルピース、鍵穴などの抜き型を一つ選び、元の画像に不規則な位置できれいな穴を開けていきます。形も大きさもすべて同じで、向きが変わるだけ。物の輪郭に沿って切り抜くことはありません。穴からは、写真の色から取った一色の無地がのぞきます。もう半分は同じ色の広い余白で、抜き取った欠片がそれぞれ元の位置の質感と色のまま現れ、ゆるやかな星座、標本、手がかりのような新しい並びに集まります。文字は一切入りません。",
+    "traits": [
+      "一つの抜き型",
+      "繰り返す負の形",
+      "不規則な配置",
+      "無地の余白",
+      "欠片の意味の再構成",
+      "文字なし"
+    ],
+    "good": [
+      "色彩豊かで質感の密な写真：花畑、海面、秋の林、夜の街の灯り",
+      "細部が多く、部分を切り取っても美しい画面：市場の屋台、布の文様、マクロ写真、果物の山",
+      "アート誌の誌面、展覧会ポスター、コラージュ風の作品にしたい画像"
+    ],
+    "poor": [
+      "無地の面が大きい、または細部の少ない写真：白壁の前の人、霧、ミニマルな商品写真（欠片がどれも同じに見えます）",
+      "穴を開けずに丸ごと残すべき写真：証明写真や大切な人の顔など",
+      "説明文やタイトル、物を輪郭どおりに切り抜くこと、ペーパークラフトの立体感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "펀칭의 여운",
+    "tagline": "하나의 틀로 사진에 구멍을 내고, 빼낸 조각들을 단색 여백에 다시 모읍니다.",
+    "look": "사진의 분위기에 맞춰 별, 꽃잎, 잎사귀, 물방울, 구름, 퍼즐 조각, 열쇠 구멍 같은 펀칭 틀 하나를 고르고, 원본 이미지 곳곳에 불규칙하게 깔끔한 구멍을 냅니다. 모양과 크기는 모두 같고 방향만 돌아갈 뿐, 사물의 윤곽을 따라 오려 내지는 않습니다. 구멍으로는 사진 색에서 뽑은 단색 하나가 보입니다. 나머지 절반은 같은 색의 넓은 여백으로, 빼낸 조각 하나하나가 원래 자리의 실제 질감과 색 그대로 나타나 느슨한 별자리, 표본, 단서 같은 새로운 배열로 모입니다. 글자는 전혀 넣지 않습니다.",
+    "traits": [
+      "단일 펀칭 틀",
+      "반복되는 음형",
+      "무작위 배치",
+      "단색 여백",
+      "조각의 의미 재구성",
+      "글자 없음"
+    ],
+    "good": [
+      "색이 풍부하고 질감이 촘촘한 사진: 꽃밭, 바다, 가을 숲, 밤의 도시 불빛",
+      "디테일이 많아 일부만 잘라도 보기 좋은 장면: 시장 좌판, 직물 문양, 접사 사진, 과일 더미",
+      "아트 매거진 지면, 전시 포스터, 콜라주풍 작품으로 쓰고 싶은 이미지"
+    ],
+    "poor": [
+      "단색 면이 넓거나 디테일이 적은 사진: 흰 벽 앞의 사람, 안개, 미니멀 제품 사진(조각이 모두 비슷해 보입니다)",
+      "구멍 없이 온전히 남겨야 하는 사진: 증명사진이나 소중한 사람의 얼굴 등",
+      "설명 문구나 제목, 사물을 윤곽대로 오려 내기, 페이퍼 아트 입체감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صدى الثقوب",
+    "tagline": "يثقب صورتك بقالب واحد متكرر، ثم يجمع القطع المنتزعة من جديد على مساحة لونية هادئة.",
+    "look": "يُختار قالب ثقب يلائم طابع الصورة، مثل نجمة أو بتلة أو ورقة شجر أو قطرة أو غيمة أو قطعة أحجية أو ثقب مفتاح، وتُثقب الصورة الأصلية ثقوباً نظيفة في مواضع غير منتظمة، كلها بالشكل والحجم نفسيهما، لا يتغير إلا اتجاهها، ولا يُقصّ أي عنصر على حدوده. يظهر من الثقوب لون مصمت واحد مأخوذ من ألوان الصورة. النصف الآخر مساحة واسعة بهذا اللون نفسه، تظهر فيها كل قطعة منتزعة بملمسها ولونها الحقيقيين من موضعها، متجمّعة في كوكبات متباعدة أو صفوف كالعيّنات أو ترتيبات جديدة تشبه الأدلّة. لا يُضاف أي نص.",
+    "traits": [
+      "قالب ثقب واحد",
+      "أشكال سالبة متكررة",
+      "مواضع عشوائية",
+      "مساحة لون مصمت",
+      "إعادة تركيب دلالي للقطع",
+      "بلا نص"
+    ],
+    "good": [
+      "صور غنية بالألوان كثيفة الملمس: حقل زهور، سطح البحر، غابة خريفية، أضواء مدينة ليلاً",
+      "مشاهد كثيرة التفاصيل تبقى جميلة حتى في أجزاء صغيرة: بسطات سوق، نقوش أقمشة، صور مقرّبة، كومة فواكه",
+      "صور تريدها صفحة في مجلة فنية أو ملصقاً لمعرض أو عملاً يشبه الكولاج"
+    ],
+    "poor": [
+      "صور فيها مساحات مسطّحة كبيرة أو تفاصيل قليلة: شخص أمام جدار أبيض، ضباب، صور منتجات بسيطة، فتتشابه القطع كلها",
+      "صور يجب أن تبقى كاملة بلا ثقوب، مثل صور الهوية أو وجه شخص عزيز",
+      "طلب تعليقات أو عناوين، أو قصّ العناصر على حدودها، أو مظهر نحت ورقي بارز"
+    ]
+  }
+}

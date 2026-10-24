@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-342
-description: "Create XXD Panel 342 raster artwork: a faithful image opened by one repeated die-cut punch shape chosen from the image itself, with the punched-out fragments re-gathered on a quiet solid colour field into a new, open order. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; text-free by default, with prompt-generated or user-exact typography on request. Use whenever the user invokes xxd-panel-342 or asks for this 艺术打孔 / 打孔余韵 style."
+description: "XXD Panel 342｜Punched Echo: chooses one punch die that suits the whole image (a star, petal, leaf, drop, cloud, puzzle piece, crescent, keyhole and so on) and stamps it again and again across the photo at freely judged, irregular spots, always the same outline and size, never cutting objects out along their edges; the holes show a solid colour drawn from the photo, and every punched-out piece reappears with its real texture on that quiet colour field, regathered into loose clusters, constellations or specimen-like rows that hint at a second reading. The photo itself is visibly punched, and no text is added. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-342 or asks for die-cut hole punching, repeated shape masking or fragment recomposition from an image."
 ---
 
 # XXD Panel 342
